@@ -3,6 +3,7 @@
 <a href="https://github.com/XPaVilion"><p align="center">#XPaVilion._.Prado</p></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnipguy30&label=Profile%20views&color=0e75b6&style=flat" alt="turnipguy30" /> </p>
+[![HitCount](http://hits.dwyl.com/TurnipGuy30/{project}.svg)](http://hits.dwyl.com/TurnipGuy30/{project})
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turnipguy30" alt="turnipguy30" /></a> </p>
 
