@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm TurnipGuy30</h1>
 <h3 align="center">A Yr. 9 student using GitHub for assessments, as well as for Pokémon!</h3>
-<h2 align="center">#XPaVilion._.Prado</h2>
+<a href="https://github.com/XPaVilion"><p align="center">#XPaVilion._.Prado</p></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turnipguy30&label=Profile%20views&color=0e75b6&style=flat" alt="turnipguy30" /> </p>
 
