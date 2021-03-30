@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Yr. 9 student using GitHub for assessments, as well as for Pokémon!</h3>
 <a href="https://github.com/XPaVilion"><p align="center">#XPaVilion._.Prado</p></a>
 
-<h6 align="left"> <img src="https://komarev.com/ghpvc/?username=turnipguy30&label=Profile%20views&color=0e75b6&style=flat" alt="turnipguy30" /> (Hits in the Last 14 Days)</h6>
+<h6 align="left"> <img src="https://komarev.com/ghpvc/?username=turnipguy30&label=Profile%20views&color=0e75b6&style=flat"> (Hits in the Last 14 Days)</h6>
+<h6 align="left"> <img src="https://gpvc.arturio.dev/TurnipGuy30"> (All-Time Hits [since install])</h6>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turnipguy30" alt="turnipguy30" /></a> </p>
 
