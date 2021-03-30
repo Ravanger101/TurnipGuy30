@@ -2,14 +2,18 @@
 <h3 align="center">I'm a Yr. 9 student using GitHub for assessments, as well as for Pokémon!</h3>
 <a href="https://github.com/XPaVilion"><p align="center">#XPaVilion._.Prado</p></a>
 
-<h6 align="left"> <img src="https://komarev.com/ghpvc/?username=turnipguy30&label=Profile%20views&color=0e75b6&style=flat"> (Hits in the Last 14 Days)</h6>
-<h6 align="left"> <img src="https://gpvc.arturio.dev/TurnipGuy30"> (All-Time Hits [since install])</h6>
+<p align="center">
+	<a href="https://github.com/TurnipGuy30"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
+	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a> <!--Ask me anything-->
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turnipguy30" alt="turnipguy30" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true"></a> </p>
 
 - 🔭 I’m currently working on [Pokémon PythonRed](https://github.com/TurnipGuy30/Pokemon-PythonRed), collaborate with me!
 
-- 🌱 I’m currently learning **Red**, **Rebol**, and **C++**!
+- 🥇 I'm most experienced in **Web Design** and **Python**!
+
+- 🌱 I’m currently learning **Red** and **C++**!
 
 - 👨‍💻 All of my projects are available at [https://github.com/TurnipGuy30](https://github.com/TurnipGuy30)!
 
