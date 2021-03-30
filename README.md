@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm TurnipGuy30!</h1>
+<h1 align="center">:atom: Hi, I'm TurnipGuy30! :electron:</h1>
 <h3 align="center">I'm a Yr. 9 student using GitHub for assessments, as well as for Pokémon!</h3>
 <a href="https://github.com/XPaVilion"><p align="center">#XPaVilion._.Prado</p></a>
 
