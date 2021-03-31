@@ -5,8 +5,9 @@
 <p align="center">
 	<a href="https://github.com/TurnipGuy30"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
 	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a> <!--Ask me anything-->
-	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://img.shields.io/badge/Working%20on-Pokémon%20PythonRed-red"></a>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/Sponsored%20by-Isabel%20Lifu%20211207%20XPrado-purple"></a>
+	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://img.shields.io/badge/Working%20on-Pokémon%20PythonRed-red"></a> <!--Working on-->
+	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/I_make-READMEs-navy"></a>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/Shoutout%20to-Isabel%20Lifu%20211207%20XPrado-purple"></a> <!--Shoutout-->
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true"></a> </p>
