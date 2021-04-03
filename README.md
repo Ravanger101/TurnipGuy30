@@ -4,6 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/TurnipGuy30"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
+	<a href=”https://github.com/TurnipGuy30”><img src=”https://img.shields.io/github/stars/TurnipGuy30”></a> <!--Stars-->
 	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a> <!--Ask me anything-->
 	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://img.shields.io/badge/Working%20on-Pokémon%20PythonRed-red"></a> <!--Working on-->
 	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/I_make-READMEs-navy"></a> <!--I make READMEs-->
