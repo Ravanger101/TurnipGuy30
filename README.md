@@ -11,7 +11,9 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/Shoutout%20to-Isabel%20Lifu%20211207%20XPrado-purple"></a> <!--Shoutout-->
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true"></a> </p>
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true"></a>
+</p>
 
 - 🔭 I’m currently working on [Pokémon PythonRed](https://github.com/TurnipGuy30/Pokemon-PythonRed), collaborate with me!
 
