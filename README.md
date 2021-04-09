@@ -23,7 +23,7 @@
 
 - 💻 All of my projects are available on [my GitHub page](https://github.com/TurnipGuy30)!
 
-- 🥇 I'm most experienced at **Web Design** and **Python**!
+- 🥇 I'm most experienced at **Python** and **HTML**!
 
 - 🌱 I’m currently learning **Bootstrap** and **BrainF**!
 
