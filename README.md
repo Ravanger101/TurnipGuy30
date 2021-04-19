@@ -19,7 +19,7 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true"></a>
 </p>
 
-- 💬 My (very WIP) website is [TurnipGuy30.github.io](https://turnipguy30.github.io)!
+- 💬 My (very WIP) website is [TurnipGuy30.github.io](https://turnipguy30.github.io/index.html)!
 
 - 🔭 I’m currently working on [Pokémon PythonRed](https://github.com/TurnipGuy30/Pokemon-PythonRed)!
 
