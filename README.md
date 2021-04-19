@@ -51,7 +51,10 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=turnipguy30&theme=tokyonight"><br><br>
 </p>
 
-<h3 align="left">Pinned Repositories:</h3>
+<h3 align="left">School Stuff:</h3>
+<p>
+</p>
+<h3 align="left">Other Repositories:</h3>
 <p>
 	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/DT-Assignment-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=DT-Assignment-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
