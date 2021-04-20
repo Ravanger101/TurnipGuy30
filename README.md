@@ -56,7 +56,8 @@
 
 <h3 align="left">School Stuff:</h3>
 <p>
-	<a href="https://github.com/TurnipGuy30/DT-Assignment-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=DT-Assignment-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+	<a href="https://github.com/TurnipGuy30/HTML-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=HTML-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+	<a href="https://github.com/TurnipGuy30/CSS-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=CSS-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Engineering-Folio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Engineering-Folio&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
 <h3 align="left">Other Repositories:</h3>
