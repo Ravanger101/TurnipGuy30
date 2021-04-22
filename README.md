@@ -27,7 +27,7 @@
 
 - 🥇 I'm most experienced at **Python** and **HTML**!
 
-- 🌱 I’m currently learning **Bootstrap** and **BrainF**!
+- 🌱 I’m currently learning **Bootstrap** and **C++**!
 
 <h3 align="left">Things I Like:</h3>
 <p align="left">
