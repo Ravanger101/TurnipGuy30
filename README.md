@@ -1,5 +1,5 @@
 <h1 align="center">:atom: Hi, I'm TurnipGuy30! :electron:</h1>
-<h3 align="center">I'm a Yr. 9 student using GitHub for assessments, and everything else!</h3>
+<h3 align="center">I'm a Yr. 9 student using GitHub for assessments, and a few other things!</h3>
 
 <p align="center">
 	<a href="https://github.com/XPaVilion">#XPaVilion._.Prado</a> x 
@@ -60,13 +60,18 @@
 	<a href="https://github.com/TurnipGuy30/CSS-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=CSS-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Engineering-Folio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Engineering-Folio&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
-<h3 align="left">Other Repositories:</h3>
+
+<h3 align="left">Pinned Repositories:</h3>
 <p>
 	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/BrainF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=BrainF&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Hello-world"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Hello-world&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+</p>
+
+<h3 align="left">Other Repositories:</h3>
+<p>
 	<a href="https://github.com/TurnipGuy30/randCC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randCC&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/randPokemon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randPokemon&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+	<a href="https://github.com/TurnipGuy30/BrainF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=BrainF&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Pseudorandom-Roshambo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Pseudorandom-Roshambo&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Just-Stuff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Just-Stuff&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
