@@ -11,8 +11,16 @@
 	<a href=”https://github.com/TurnipGuy30”><img src=”https://img.shields.io/github/stars/TurnipGuy30”></a> <!--Stars-->
 	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a> <!--Ask me anything-->
 	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://img.shields.io/badge/Working%20on-Pokémon%20PythonRed-red"></a> <!--Working on-->
-	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/I_make-READMEs-navy"></a> <!--I make READMEs-->
+	<a href="https://TurnipGuy30.github.io"><img src="https://img.shields.io/badge/I_make-READMEs-navy"></a> <!--I make READMEs-->
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/Shoutout%20to-Isabel%20Lifu%20211207%20XPrado-purple"></a> <!--Shoutout-->
+	<br>
+	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
+	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
+	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
+	<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"> <!--HTML-->
+	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
+	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> <!--JavaScript-->
+	<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"> <!--Node.js-->
 </p>
 
 <p align="center">
@@ -29,7 +37,7 @@
 
 - 🌱 I’m currently learning **Bootstrap** and **C++**!
 
-<h3 align="left">Things I Like:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"></a> <!--Bash-->
 	<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></a> <!--Bootstrap-->
