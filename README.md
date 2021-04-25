@@ -15,6 +15,7 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/Shoutout%20to-Isabel%20Lifu%20211207%20XPrado-purple"></a> <!--Shoutout-->
 	<br>
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
+	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
 	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
 	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
 	<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"> <!--HTML-->
