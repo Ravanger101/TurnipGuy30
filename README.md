@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Yr. 9 student using GitHub for assessments, and a few other things!</h3>
 
 <p align="center">
-	<a href="https://github.com/XPaVilion">#XPaVilion._.Prado</a> x 
+	<a href="https://github.com/XPaVilion">#XPaVilion._.Prado</a> x
 	<a href="https://www.khanacademy.org/computer-programming/team-among-us/6501917627990016">#TeamAmongUs</a>
 </p>
 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true"></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true&a"></a>
 </p>
 
 - 💬 My (very WIP) website is [TurnipGuy30.github.io](https://turnipguy30.github.io/index.html)!
