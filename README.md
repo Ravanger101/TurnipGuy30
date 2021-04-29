@@ -26,6 +26,11 @@
 	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
 	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> <!--JavaScript-->
 	<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"> <!--Node.js-->
+	<img src="https://img.shields.io/badge/-Electron-333333?logo=electron"> <!--Electron-->
+	<img src="https://img.shields.io/badge/-Nintendo_Network-333333?logo=nintendo%20network"> <!--Nintendo Network-->
+	<img src="https://img.shields.io/badge/-Nintendo_GameCube-333333?logo=nintendo%20gamecube"> <!--Nintendo GameCube-->
+	<img src="https://img.shields.io/badge/-Nintendo_Switch-333333?logo=nintendo%20switch"> <!--Nintendo Switch-->
+	<img src="https://img.shields.io/badge/-Nintendo_2DS-333333?logo=nintendo%203ds&logoColor=informational"> <!--Nintendo 2DS-->
 </p>
 
 <p align="center">
