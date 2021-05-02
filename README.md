@@ -2,8 +2,9 @@
 <h3 align="center">I'm a Yr. 9 student using GitHub for assessments, and a few other things!</h3>
 
 <p align="center">
-	<a href="https://github.com/XPaVilion">#XPaVilion</a> x
-	<a href="https://www.khanacademy.org/computer-programming/team-among-us/6501917627990016">#TeamAmongUs</a>
+	#<a href="https://github.com/XPaVilion">XPaVilion</a> x
+	#<a href="https://github.com/LaHonathon/LS.py">LS.py</a> x
+	#<a href="https://www.khanacademy.org/computer-programming/team-among-us/6501917627990016">TeamAmongUs</a>
 </p>
 
 <p align="center">
