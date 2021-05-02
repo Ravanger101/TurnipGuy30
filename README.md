@@ -68,9 +68,9 @@
 
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=99&custom_title=Most%20Used%20Languages%20%28Accurate%29&exclude_repo=Just-Stuff,Hello-World&hide=brainfuck,red,rebol"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnipGuy30&layout=compact&theme=tokyonight&c"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=turnipguy30&show_icons=true&locale=en&theme=tokyonight"><br><br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=turnipguy30&theme=tokyonight"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnipGuy30&layout=compact&theme=tokyonight&d"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=turnipguy30&show_icons=true&locale=en&theme=tokyonight&a"><br><br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=turnipguy30&theme=tokyonight&a"><br><br>
 </p>
 
 <h3 align="left">School Stuff:</h3>
