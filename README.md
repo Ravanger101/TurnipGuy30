@@ -70,13 +70,12 @@
 <p>
 	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Hello-world"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Hello-world&theme=tokyonight&show_owner=true&a" width="400" height="150"></a>
+	<a href="https://github.com/TurnipGuy30/Celebi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Celebi&theme=tokyonight&show_owner=true&a" width="400" height="150"></a>
 </p>
 
 <h3 align="left">Other Repositories:</h3>
 <p>
 	<a href="https://github.com/TurnipGuy30/randCC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randCC&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/randPokemon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randPokemon&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/BrainF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=BrainF&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Pseudorandom-Roshambo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Pseudorandom-Roshambo&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Just-Stuff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Just-Stuff&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
