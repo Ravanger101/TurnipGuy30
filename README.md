@@ -66,7 +66,7 @@
 	<a href="https://github.com/TurnipGuy30/Celebi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Celebi&theme=tokyonight&show_owner=true&a" width="400" height="150"></a>
 </p>
 
-<details><summary><h3>School Stuff:</h3></summary>
+<details><summary>School Stuff:</summary>
 <hr>
 <p>
 	<a href="https://github.com/TurnipGuy30/HTML-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=HTML-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
@@ -76,7 +76,7 @@
 <hr>
 </details>
 
-<details><summary><h3>Other Repositories:</h3></summary>
+<details><summary>Other Repositories:</summary>
 <hr>
 <p>
 	<a href="https://github.com/TurnipGuy30/randPokemon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randPokemon&theme=tokyonight&show_owner=true" width="400" height="150"></a>
