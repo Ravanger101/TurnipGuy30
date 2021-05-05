@@ -59,13 +59,6 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=turnipguy30&theme=tokyonight&a"><br><br>
 </p>
 
-<h3 align="left">School Stuff:</h3>
-<p>
-	<a href="https://github.com/TurnipGuy30/HTML-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=HTML-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/CSS-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=CSS-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Engineering-Folio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Engineering-Folio&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-</p>
-
 <h3 align="left">Pinned Repositories:</h3>
 <p>
 	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=true" width="400" height="150"></a>
@@ -73,9 +66,22 @@
 	<a href="https://github.com/TurnipGuy30/Celebi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Celebi&theme=tokyonight&show_owner=true&a" width="400" height="150"></a>
 </p>
 
-<h3 align="left">Other Repositories:</h3>
+<details><summary><h3>School Stuff:</h3></summary>
+<hr>
+<p>
+	<a href="https://github.com/TurnipGuy30/HTML-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=HTML-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+	<a href="https://github.com/TurnipGuy30/CSS-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=CSS-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+	<a href="https://github.com/TurnipGuy30/Engineering-Folio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Engineering-Folio&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+</p>
+<hr>
+</details>
+
+<details><summary><h3>Other Repositories:</h3></summary>
+<hr>
 <p>
 	<a href="https://github.com/TurnipGuy30/randPokemon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randPokemon&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/randCC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randCC&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Just-Stuff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Just-Stuff&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
+<hr>
+</details>
