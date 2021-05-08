@@ -38,7 +38,7 @@
 	<img src="https://img.shields.io/badge/-Nintendo_Switch-333333?logo=nintendo%20switch"> <!--Nintendo Switch-->
 	<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"> <!--Node.js-->
 	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> <!--OneDrive-->
-	<img src="https://img.shields.io/badge/-Pokémon-333333?style=flat&logo=Pokemon"> <!--Pokémon-->
+	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> <!--Pokémon-->
 	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
 	<img src="https://img.shields.io/badge/-Scratch-333333?style=flat&logo=Scratch"> <!--Scratch-->
 	<img src="https://img.shields.io/badge/-Spotify-333333?style=flat&logo=Spotify"> <!--Spotify-->
