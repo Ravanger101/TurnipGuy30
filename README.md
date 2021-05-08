@@ -19,10 +19,10 @@
 	<img src="https://img.shields.io/badge/-Audacity-333333?style=flat&logo=Audacity"> <!--Audacity-->
 	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
 	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
-	<img src="https://img.shields.io/badge/-Dark_Reader-333333?style=flat&logo=Dark_Reader"> <!--Dark Reader-->
+	<img src="https://img.shields.io/badge/-Dark_Reader-333333?style=flat&logo=Dark%20Reader"> <!--Dark Reader-->
 	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> <!--Dreamweaver-->
 	<img src="https://img.shields.io/badge/-Electron-333333?logo=electron"> <!--Electron-->
-	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft_excel"> <!--Excel-->
+	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft%20Excel"> <!--Excel-->
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
 	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <!--Git-->
 	<img src="https://img.shields.io/badge/-Git_LFS-333333?style=flat&logo=git%20lfs"> <!--Git LFS-->
@@ -30,20 +30,20 @@
 	<img src="https://img.shields.io/badge/-Grammarly-333333?style=flat&logo=Grammarly"> <!--Grammarly-->
 	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <!--HTML-->
 	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> <!--JavaScript-->
-	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan_Academy"> <!--Khan Academy-->
+	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> <!--Khan Academy-->
 	<img src="https://img.shields.io/badge/-MEGA-333333?style=flat&logo=mega"> <!--MEGA-->
 	<img src="https://img.shields.io/badge/-Nintendo_3DS-333333?logo=nintendo%203ds&logoColor=informational"> <!--Nintendo 3DS-->
 	<img src="https://img.shields.io/badge/-Nintendo_GameCube-333333?logo=nintendo%20gamecube"> <!--Nintendo GameCube-->
 	<img src="https://img.shields.io/badge/-Nintendo_Network-333333?logo=nintendo%20network"> <!--Nintendo Network-->
 	<img src="https://img.shields.io/badge/-Nintendo_Switch-333333?logo=nintendo%20switch"> <!--Nintendo Switch-->
 	<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"> <!--Node.js-->
-	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft_onedrive"> <!--OneDrive-->
-	<img src="https://img.shields.io/badge/-Pokémon-333333?style=flat&logo=Pokémon"> <!--Pokémon-->
+	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> <!--OneDrive-->
+	<img src="https://img.shields.io/badge/-Pokémon-333333?style=flat&logo=Pokemon"> <!--Pokémon-->
 	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
 	<img src="https://img.shields.io/badge/-Scratch-333333?style=flat&logo=Scratch"> <!--Scratch-->
 	<img src="https://img.shields.io/badge/-Spotify-333333?style=flat&logo=Spotify"> <!--Spotify-->
 	<img src="https://img.shields.io/badge/-Tampermonkey-333333?style=flat&logo=Tampermonkey"> <!--Tampermonkey-->
-	<img src="https://img.shields.io/badge/-Teams-333333?style=flat&logo=microsoft_teams"> <!--Teams-->
+	<img src="https://img.shields.io/badge/-Teams-333333?style=flat&logo=microsoft%20teams"> <!--Teams-->
 	<img src="https://img.shields.io/badge/-WakaTime-333333?style=flat&logo=wakatime"> <!--WakaTime-->
 	<img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows"> <!--Windows-->
 </p>
