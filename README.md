@@ -48,6 +48,7 @@
 	<img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows"> <!--Windows-->
 </p>
 
+<!--
 <img src="https://img.shields.io/badge/--333333?style=flat&logo="> <!---->
 
 <p align="center">
