@@ -15,6 +15,7 @@
 	<a href="https://TurnipGuy30.github.io"><img src="https://img.shields.io/badge/I_make-READMEs-navy"></a> <!--I make READMEs-->
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/Shoutout%20to-Isabel--Lifu--211207--XPrado-purple"></a> <!--Shoutout-->
 	<br>
+	<img src="https://img.shields.io/badge/-AdBlock-333333?style=flat&logo=AdBlock"> <!--AdBlock-->
 	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
 	<img src="https://img.shields.io/badge/-Audacity-333333?style=flat&logo=Audacity"> <!--Audacity-->
 	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
@@ -28,6 +29,7 @@
 	<img src="https://img.shields.io/badge/-Git_LFS-333333?style=flat&logo=git%20lfs"> <!--Git LFS-->
 	<img src="https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken"> <!--GitKraken-->
 	<img src="https://img.shields.io/badge/-Grammarly-333333?style=flat&logo=Grammarly"> <!--Grammarly-->
+	<img src="https://img.shields.io/badge/-Homebrew-333333?style=flat&logo=homebrew"> <!--Homebrew-->
 	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <!--HTML-->
 	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> <!--JavaScript-->
 	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> <!--Khan Academy-->
@@ -41,9 +43,12 @@
 	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> <!--Pokémon-->
 	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
 	<img src="https://img.shields.io/badge/-Scratch-333333?style=flat&logo=Scratch"> <!--Scratch-->
+	<img src="https://img.shields.io/badge/-Shields%2Eio-333333?style=flat&logo=shields%2Eio"> <!--Shields.io-->
+	<img src="https://img.shields.io/badge/-Shotcut-333333?style=flat&logo=Shotcut"> <!--Shotcut-->
 	<img src="https://img.shields.io/badge/-Spotify-333333?style=flat&logo=Spotify"> <!--Spotify-->
 	<img src="https://img.shields.io/badge/-Tampermonkey-333333?style=flat&logo=Tampermonkey"> <!--Tampermonkey-->
 	<img src="https://img.shields.io/badge/-Teams-333333?style=flat&logo=microsoft%20teams"> <!--Teams-->
+	<img src="https://img.shields.io/badge/-VLC%20Media%20Player-333333?style=flat&logo=vlc%20media%20player"> <!--VLC Media Player-->
 	<img src="https://img.shields.io/badge/-WakaTime-333333?style=flat&logo=wakatime"> <!--WakaTime-->
 	<img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows"> <!--Windows-->
 </p>
