@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/--333333?style=flat&logo="> <!---->
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&column=5&theme=dracula&no-frame=true&a"></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&a"></a>
 </p>
 
 - 💬 My (very WIP) website is [TurnipGuy30.github.io](https://turnipguy30.github.io/index.html)!
