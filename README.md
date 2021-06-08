@@ -33,7 +33,6 @@
 	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> <!--Pokémon-->
 	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
 	<img src="https://img.shields.io/badge/-Tampermonkey-333333?style=flat&logo=Tampermonkey"> <!--Tampermonkey-->
-	<img src="https://img.shields.io/badge/-WakaTime-333333?style=flat&logo=wakatime"> <!--WakaTime-->
 	<img src="https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=Windows"> <!--Windows-->
 </p>
 
