@@ -76,13 +76,3 @@
 </p>
 <hr>
 </details>
-
-<details><summary>Other Repositories:</summary>
-<hr>
-<p>
-	<a href="https://github.com/TurnipGuy30/randPokemon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randPokemon&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/randCC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=randCC&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Just-Stuff"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Just-Stuff&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-</p>
-<hr>
-</details>
