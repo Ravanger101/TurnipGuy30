@@ -41,10 +41,10 @@
 <img src="https://img.shields.io/badge/--333333?style=flat&logo="> <!---->
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=egoist&theme=dracula&no-frame=true&column=11"></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&column=11"></a>
 </p>
 
-- 💬 My (very WIP) website is [TurnipGuy30.github.io](https://turnipguy30.github.io/index.html)!
+- 💬 My website is [TurnipGuy30.github.io](https://turnipguy30.github.io/index.html)!
 
 - 🔭 I’m currently working on [Pokémon PythonRed](https://github.com/TurnipGuy30/Pokemon-PythonRed)!
 
