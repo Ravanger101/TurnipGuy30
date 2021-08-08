@@ -8,6 +8,8 @@
 	#<a href="https://www.khanacademy.org/computer-programming/team-among-us/6501917627990016">TeamAmongUs</a>
 </p>
 
+<h3 align="center"><a href="https://discord.gg/bz768JNs7y">Join my Discord Server!</a></h3>
+
 <p align="center">
 	<a href="https://github.com/TurnipGuy30"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
 	<a href=”https://github.com/TurnipGuy30”><img src=”https://img.shields.io/github/stars/TurnipGuy30”></a> <!--Stars-->
