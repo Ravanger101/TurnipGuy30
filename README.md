@@ -17,30 +17,7 @@
 	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://img.shields.io/badge/Working%20on-Pokémon%20PythonRed-red"></a> <!--Working on-->
 	<a href="https://TurnipGuy30.github.io"><img src="https://img.shields.io/badge/I_make-READMEs-navy"></a> <!--I make READMEs-->
 	<a href="https://github.com/Valensce"><img src="https://img.shields.io/badge/Shoutout%20to-Valensce-purple"></a> <!--Shoutout-->
-	<br>
-	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
-	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
-	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
-	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> <!--Dreamweaver-->
-	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft%20Excel"> <!--Excel-->
-	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
-	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <!--Git-->
-	<img src="https://img.shields.io/badge/-Grammarly-333333?style=flat&logo=Grammarly"> <!--Grammarly-->
-	<img src="https://img.shields.io/badge/-Homebrew-333333?style=flat&logo=homebrew"> <!--Homebrew-->
-	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <!--HTML-->
-	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> <!--JavaScript-->
-	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> <!--Khan Academy-->
-	<img src="https://img.shields.io/badge/-Nintendo_3DS-333333?logo=nintendo%203ds&logoColor=informational"> <!--Nintendo 3DS-->
-	<img src="https://img.shields.io/badge/-Nintendo_Switch-333333?logo=nintendo%20switch"> <!--Nintendo Switch-->
-	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> <!--OneDrive-->
-	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> <!--Pokémon-->
-	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
-	<img src="https://img.shields.io/badge/-Tampermonkey-333333?style=flat&logo=Tampermonkey"> <!--Tampermonkey-->
-	<img src="https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=Windows"> <!--Windows-->
 </p>
-
-<!--
-<img src="https://img.shields.io/badge/--333333?style=flat&logo="> <!---->
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&column=11"></a>
