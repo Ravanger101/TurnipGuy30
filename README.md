@@ -14,7 +14,7 @@
 	<a href="https://github.com/TurnipGuy30"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
 	<a href=”https://github.com/TurnipGuy30”><img src=”https://img.shields.io/github/stars/TurnipGuy30”></a> <!--Stars-->
 	<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a> <!--Ask me anything-->
-	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://img.shields.io/badge/Working%20on-Pokémon%20PythonRed-red"></a> <!--Working on-->
+	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://img.shields.io/badge/Featured%20Repo-Pokémon%20PythonRed-red"></a> <!--Featured-->
 	<a href="https://TurnipGuy30.github.io"><img src="https://img.shields.io/badge/I_make-READMEs-navy"></a> <!--I make READMEs-->
 	<a href="https://github.com/Valensce"><img src="https://img.shields.io/badge/Shoutout%20to-Valensce-purple"></a> <!--Shoutout-->
 </p>
