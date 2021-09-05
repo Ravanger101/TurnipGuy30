@@ -25,11 +25,11 @@
 
 - 💬 My website is [TurnipGuy30.github.io](https://turnipguy30.github.io/index.html)!
 
-- 🔭 I’m currently working on [an assignment](https://github.com/TurnipGuy30/JavaScript)!
+- 🔭 I’m currently working on [an assignment](https://turnipguy30.github.io/DT)!
 
 - 💻 All of my projects are available on [my GitHub page](https://github.com/TurnipGuy30)!
 
-- 🥇 I'm most experienced at **Python** and **HTML**!
+- 🥇 I'm most experienced at **Python** and **Web Design**!
 
 - 🌱 I’m currently learning **JavaScript** and **C++**!
 
