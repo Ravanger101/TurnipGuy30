@@ -45,13 +45,3 @@
 	<a href="https://github.com/TurnipGuy30/Hello-world"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Hello-world&theme=tokyonight&show_owner=true&a" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Celebi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Celebi&theme=tokyonight&show_owner=true&a" width="400" height="150"></a>
 </p>
-
-<details><summary>School Stuff:</summary>
-<hr>
-<p>
-	<a href="https://github.com/TurnipGuy30/HTML-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=HTML-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/CSS-DT-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=CSS-DT-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Engineering-Folio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Engineering-Folio&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-</p>
-<hr>
-</details>
