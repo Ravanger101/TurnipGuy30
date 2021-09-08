@@ -31,7 +31,7 @@
 
 - 🥇 I'm most experienced at **Python** and **Web Design**!
 
-- 🌱 I’m currently learning **JavaScript** and **C++**!
+- 🌱 I’m currently learning **Swift** and **C**!
 
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Accurate%29&exclude_repo=Just-Stuff,Hello-World&hide=red,rebol"><br><br>
