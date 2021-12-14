@@ -1,5 +1,5 @@
 <h1 align="center">:atom: Hi, I'm TurnipGuy30! :electron:</h1>
-<h3 align="center">I'm a Yr. 9 student using GitHub for assessments, and a few other things!</h3>
+<h3 align="center">I'm a high-school student using GitHub for assessments, and a few other things!</h3>
 
 <h3 align="center"><a href="https://dsc.gg/xpv">Join my Discord Server!</a></h3>
 
