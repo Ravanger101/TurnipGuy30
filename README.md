@@ -22,14 +22,16 @@
 - 🥇 I'm most experienced at **Python** and **Web Development**!
 
 <details><summary>My Stats</summary>
+<br>
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Accurate%29&exclude_repo=Just-Stuff,Hello-World&hide=red,rebol,hack,j"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=turnipguy30&show_icons=true&locale=en&theme=tokyonight&a"><br><br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=turnipguy30&theme=tokyonight&a"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=turnipguy30&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"><br><br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=turnipguy30&theme=tokyonight"><br><br>
 </p>
 </details>
 
 <details><summary>Pinned Repositories</summary>
+<br>
 <p>
 	<a href="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pokemon-PythonRed&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/TurnipGuy30/Prado"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Prado&theme=tokyonight&show_owner=true" width="400" height="150"></a>
