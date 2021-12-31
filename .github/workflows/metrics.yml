@@ -51,14 +51,6 @@ jobs:
           plugin_habits_charts: yes # Display charts section
           plugin_habits_trim: yes # Trim unused hours on daily chart
           config_timezone: Australia/Brisbane # Set timezone
-          # licenses
-          template: repository
-          user: TurnipGuy30
-          repo: TurnipGuy30
-          plugin_licenses: yes
-          # plugin_licenses_setup: _ # Command to setup target repository
-          plugin_licenses_ratio: yes # Display used licenses ratio
-          plugin_licenses_legal: yes # Display permissions, limitations and conditions
           # wakatime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }} # Required
