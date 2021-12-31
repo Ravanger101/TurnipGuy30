@@ -1,2 +1,2 @@
-- name: Checkout
+name: Checkout
   uses: actions/checkout@v2.4.0
