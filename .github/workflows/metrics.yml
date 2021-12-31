@@ -53,8 +53,8 @@ jobs:
           config_timezone: Australia/Brisbane # Set timezone
           # licenses
           template: repository
-          user: repository-owner
-          repo: repository-name
+          user: TurnipGuy30
+          repo: TurnipGuy30
           plugin_licenses: yes
           plugin_licenses_setup: npm ci # Command to setup target repository
           plugin_licenses_ratio: yes # Display used licenses ratio
