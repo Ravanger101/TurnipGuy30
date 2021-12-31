@@ -1,7 +1,2 @@
-name: Checkout
-on:
-  push:
-    branches: ["master", "main"]
-  workflow_dispatch:
-jobs:
-  uses: actions/checkout@2.4.0
+- name: Checkout
+  uses: actions/checkout@latest
