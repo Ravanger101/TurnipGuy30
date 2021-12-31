@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Pokémon PythonRed](https://github.com/Pokemon-PythonRed)!
 
-- 🥇 I'm most experienced at **Python** and **Web Development**!
+- 🥇 I'm most experienced at **Python**, and looking to get better at **Web Development**!
 
 <p>
 	<img src="https://github.com/TurnipGuy30/TurnipGuy30/blob/main/github-metrics.svg">
