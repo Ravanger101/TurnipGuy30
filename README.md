@@ -12,7 +12,8 @@
 </p>
 
 <p>
-	<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
+	<!--<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml/badge.svg?branch=main"></a> --><!--Checkout-->
+	<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml/badge.svg?branch=main"></a> <!--Metrics-->
 </p>
 
 <p align="center">
