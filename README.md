@@ -11,7 +11,7 @@
 	<a href="https://wakatime.com/@580a86f3-d10f-4415-ac5c-b9a0b252a2fb"><img src="https://wakatime.com/badge/user/580a86f3-d10f-4415-ac5c-b9a0b252a2fb.svg"></a> <!--Wakatime-->
 </p>
 
-<p>
+<p align="center">
 	<!--<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml/badge.svg?branch=main"></a> --><!--Checkout-->
 	<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml/badge.svg?branch=main"></a> <!--Metrics-->
 </p>
