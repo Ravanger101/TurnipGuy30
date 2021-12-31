@@ -11,6 +11,10 @@
 	<a href="https://wakatime.com/@580a86f3-d10f-4415-ac5c-b9a0b252a2fb"><img src="https://wakatime.com/badge/user/580a86f3-d10f-4415-ac5c-b9a0b252a2fb.svg"></a> <!--Wakatime-->
 </p>
 
+<p>
+	<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
+</p>
+
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&column=11"></a>
 </p>
