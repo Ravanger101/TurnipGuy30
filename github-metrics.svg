@@ -1649,9 +1649,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.1218724778047" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="311.1218724778047" y="0" width="131.33575464083938" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.45762711864404" y="0" width="17.542372881355934" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.6735537190082" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="318.6735537190082" y="0" width="134.48347107438016" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.1570247933884" y="0" width="6.8429752066115705" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1661,8 +1661,8 @@
                       YAML
                     </div>
                             <small>
-                                <div>6.70 kB</div>
-                                <div>67.64%</div>
+                                <div>6.71 kB</div>
+                                <div>69.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1671,8 +1671,8 @@
                       Python
                     </div>
                             <small>
-                                <div>378 bytes</div>
-                                <div>3.81%</div>
+                                <div>144 bytes</div>
+                                <div>1.49%</div>
                             </small>
                         </div>
                     </section>
@@ -1684,7 +1684,7 @@
                     </div>
                             <small>
                                 <div>2.83 kB</div>
-                                <div>28.55%</div>
+                                <div>29.24%</div>
                             </small>
                         </div>
                     </section>
@@ -1878,17 +1878,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 62.28162884675164%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">78%</span>
+                            <div class="bar" style="width: 78.59566539178189%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">98%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 17.594031706558905%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">22%</span>
+                            <div class="bar" style="width: 1.247425713445131%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">GAP</span>
-                            <div class="bar" style="width: 0.12433944668946223%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.15690889477297243%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2385,7 +2385,7 @@
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 580k out of 272m repositories
+                      ranked 580k out of 273m repositories
                     </span>
                   
                   
@@ -2529,7 +2529,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 2.57m out of 272m repositories
+                      ranked 2.57m out of 273m repositories
                     </span>
                   
                   
@@ -3024,7 +3024,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2022, 16:14:05 (timezone Australia/Brisbane) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 1 Jan 2022, 17:11:31 (timezone Australia/Brisbane) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
