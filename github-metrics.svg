@@ -1649,9 +1649,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.1218724778047" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="311.1218724778047" y="0" width="131.33575464083938" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.45762711864404" y="0" width="17.542372881355934" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.15190639499696" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="311.15190639499696" y="0" width="131.30925963284244" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.4611660278394" y="0" width="17.53883397216058" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1661,7 +1661,7 @@
                       YAML
                     </div>
                             <small>
-                                <div>6.70 kB</div>
+                                <div>6.71 kB</div>
                                 <div>67.64%</div>
                             </small>
                         </div>
@@ -3024,7 +3024,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2022, 13:14:11 (timezone Australia/Brisbane) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 1 Jan 2022, 14:15:10 (timezone Australia/Brisbane) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
