@@ -13,11 +13,11 @@
 
 <p align="center">
 	<!--<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml/badge.svg?branch=main"></a> --><!--Checkout-->
-	<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml/badge.svg?branch=main"></a> <!--Metrics-->
+	<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml/badge.svg?branch=main"></a> <!--Metrics Status-->
 </p>
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&column=11"></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&column=8"></a>
 </p>
 
 - 💬 My website is [https://turnipguy30.github.io](https://turnipguy30.github.io)!
