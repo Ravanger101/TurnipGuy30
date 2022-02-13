@@ -48,18 +48,18 @@ jobs:
           plugin_languages_recent_days: 7 # Limit recently used stats to last week
           commits_authoring: ba004629@bac.qld.edu.au # Surnames or email addresses used to identify your commits
           # habits
-          plugin_habits: yes
-          plugin_habits_from: 200 # Use 200 events to compute habits
-          plugin_habits_days: 14 # Keep only events from last 14 days
-          plugin_habits_facts: no # Display facts section
-          plugin_habits_charts: yes # Display charts section
-          plugin_habits_trim: yes # Trim unused hours on daily chart
-          config_timezone: Australia/Brisbane # Set timezone
+          # plugin_habits: yes
+          # plugin_habits_from: 200 # Use 200 events to compute habits
+          # plugin_habits_days: 14 # Keep only events from last 14 days
+          # plugin_habits_facts: yes # Display facts section
+          # plugin_habits_charts: yes # Display charts section
+          # plugin_habits_trim: yes # Trim unused hours on daily chart
+          # config_timezone: Australia/Brisbane # Set timezone
           # wakatime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }} # Required
           plugin_wakatime_days: 7 # Display last week stats
-          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_sections: time #, projects, projects-graphs # Display time and projects sections, along with projects graphs
           plugin_wakatime_limit: 4 # Show 4 entries per graph
           plugin_wakatime_url: https://wakatime.com # Wakatime url endpoint
           plugin_wakatime_user: .user.login # User
