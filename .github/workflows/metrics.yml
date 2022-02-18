@@ -33,8 +33,8 @@ jobs:
           # languages
           plugin_languages: yes
           # plugin_languages_ignored: # List of languages to ignore
-          plugin_languages_skipped: Hello-World # List of repositories to skip
-          # plugin_languages_limit: _ # Display up to _ languages
+          # plugin_languages_skipped: _ # List of repositories to skip
+          plugin_languages_limit: 20 # Display up to _ languages
           plugin_languages_sections: most-used, recently-used # Display most used and recently used
           # plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
           # plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
