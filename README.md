@@ -27,13 +27,3 @@
 <p>
 	<img src="https://github.com/TurnipGuy30/TurnipGuy30/blob/main/github-metrics.svg">
 </p>
-
-<details><summary>Pinned Repositories</summary>
-<br>
-<p>
-	<a href="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pokemon-PythonRed&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=false" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Prado"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Prado&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Hello-World"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Hello-World&theme=tokyonight&show_owner=false" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Celebi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Celebi&theme=tokyonight&show_owner=false" width="400" height="150"></a>
-</p>
-</details>
