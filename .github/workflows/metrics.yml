@@ -42,8 +42,8 @@ jobs:
           # plugin_languages_threshold: _% # Hides all languages less than _%
           plugin_languages_indepth: no # Get indepth stats (see documentation before enabling)
           plugin_languages_analysis_timeout: 15 # Set maximum time for indepth analysis
-          plugin_languages_categories: programming, data # Display only languages that match these categories in most-used section
-          plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
+          plugin_languages_categories: markup, programming, data, prose # Display only languages that match these categories in most-used section
+          plugin_languages_recent_categories: markup, programming, data, prose # Display only languages that match these categories in recently-used section
           plugin_languages_recent_load: 500 # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7 # Limit recently used stats to last week
           commits_authoring: ba004629@bac.qld.edu.au # Surnames or email addresses used to identify your commits
