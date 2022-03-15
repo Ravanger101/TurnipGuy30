@@ -4,7 +4,7 @@
 <p align="center">
 	<a href="https://github.com/TurnipGuy30"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
 	<a href=”https://github.com/TurnipGuy30”><img src=”https://img.shields.io/github/stars/TurnipGuy30”></a> <!--Stars-->
-	<!--<a href="mailto:ba004629@bac.qld.edu.au"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><!--Ask me anything-->
+	<!--<a href="mailto:johnsdieckmann@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><!--Ask me anything-->
 	<a href="https://github.com/Valensce"><img src="https://img.shields.io/badge/Shoutout%20to-Valensce-purple"></a> <!--Shoutout-->
 	<a href="https://wakatime.com/@580a86f3-d10f-4415-ac5c-b9a0b252a2fb"><img src="https://wakatime.com/badge/user/580a86f3-d10f-4415-ac5c-b9a0b252a2fb.svg"></a> <!--Wakatime-->
 </p>
