@@ -46,7 +46,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming, data, prose # Display only languages that match these categories in recently-used section
           plugin_languages_recent_load: 500 # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7 # Limit recently used stats to last week
-          commits_authoring: ba004629@bac.qld.edu.au # Surnames or email addresses used to identify your commits
+          commits_authoring: johnsdieckmann@gmail.com # Surnames or email addresses used to identify your commits
           # habits
           # plugin_habits: yes
           # plugin_habits_from: 200 # Use 200 events to compute habits
