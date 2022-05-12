@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm JohnnySD!</h1>
-<h3 align="center">I'm a high-school student using GitHub for assessments, and a few other things...</h3>
+<h3 align="center">I'm a high-school student using GitHub for both school assignments and personal projects.</h3>
 
 <p align="center">
 	<a href="https://github.com/TurnipGuy30"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/github/stars/TurnipGuy30"></a> <!--Stars-->
-	<a href="mailto:johnsdieckmann@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a> <!--Ask me anything-->
 	<a href="https://github.com/Valensce"><img src="https://img.shields.io/badge/Shoutout%20to-Valensce-purple"></a> <!--Shoutout-->
 	<a href="https://wakatime.com/@580a86f3-d10f-4415-ac5c-b9a0b252a2fb"><img src="https://wakatime.com/badge/user/580a86f3-d10f-4415-ac5c-b9a0b252a2fb.svg"></a> <!--Wakatime-->
 </p>
