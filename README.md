@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/TurnipGuy30"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Incomplete%29&hide=csv,jupyter%20notebook,sql,svg"></a>
+	<a href="https://github.com/TurnipGuy30"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Complete%29"></a>
 </p>
 
 <p align="center">
