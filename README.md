@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-	<!--<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/checkout.yml/badge.svg?branch=main"></a> --><!--Checkout-->
 	<a href="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml"><img src="https://github.com/TurnipGuy30/TurnipGuy30/actions/workflows/metrics.yml/badge.svg?branch=main"></a> <!--Metrics Status-->
 </p>
 
@@ -18,5 +17,9 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/TurnipGuy30/TurnipGuy30/blob/main/github-metrics.svg">
+	<a href="https://github.com/TurnipGuy30"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Incomplete%29&hide=csv,jupyter%20notebook,sql,svg"></a>
+</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/TurnipGuy30/TurnipGuy30/main/github-metrics.svg">
 </p>
