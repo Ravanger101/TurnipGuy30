@@ -23,7 +23,7 @@ jobs:
           # plugin_achievements_ignored: _ # Hide _ achievement
           plugin_traffic: yes
           plugin_languages: yes
-          plugin_languages_ignored: CSV, "Jupyter Notebook", SQL, SVG # List of languages to ignore
+          plugin_languages_ignored: CSV, Jupyter Notebook, SQL, SVG # List of languages to ignore
           # plugin_languages_skipped: _ # List of repositories to skip
           plugin_languages_limit: 8 # Display up to _ languages
           plugin_languages_sections: most-used # Display most used and recently used ("most-used, recently-used")
